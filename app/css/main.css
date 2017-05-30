@@ -1,0 +1,20 @@
+.del-btn {
+  display: none; }
+
+.visible-btn {
+  display: inline; }
+
+.contacts-wrap {
+  padding: 10px;
+  border: 1px solid lightgrey;
+  width: 100%; }
+  .contacts-wrap button {
+    margin-left: 5px;
+    font-size: .5em;
+    -webkit-border-radius: 10px;
+            border-radius: 10px;
+    background: #fff; }
+  .contacts-wrap .change-contacts {
+    font-style: italic;
+    font-size: .8em;
+    color: #e8a7a7; }
